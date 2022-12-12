@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "FF",
+    "name": "FinerFlips",
+    "description": "Become rich in Hypixel Skyblock.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://discord.gg/UjYyqgcfFK",
+    "updateUrl": "https://discord.gg/UjYyqgcfFK",
+    "authorList": ["Mugi"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

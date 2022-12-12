@@ -1,0 +1,9 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.Mugi.FinerFlips.mixins",
+  "refmap": "mixins.FF.refmap.json",
+  "mixins": [
+    "MixinGuiContainer"
+  ],
+  "verbose": true
+}
