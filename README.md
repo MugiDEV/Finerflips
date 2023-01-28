@@ -1,7 +1,7 @@
 # FinerFlips
 
-
-
+FinerFlips is a flipping mod for hypixel skyblock.
+The mod is totally legal to use in the game which makes it the perfect quality of life mod.
 A SkyBlock Flipping Mod.
 
 - `/FF` - Shows the config GUI
@@ -10,6 +10,33 @@ A SkyBlock Flipping Mod.
 - Discord - https://discord.gg/UjYyqgcfFK
 - Launch the game atleast once without pizza client to get a correct whitelist or it does not work!
 
-# We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
 
-# Make sure you are whitelisted first!
+#### Make sure you are whitelisted first!
+
+
+
+## Installation
+
+Download the Mod and put it in your mods folder for forge 1.8.9!
+
+```bash
+Make sure you are whitelisted! Whitelisting takes place in the discord server!
+```
+
+## Usage
+
+```python
+Open menu: /FF
+
+Toggle mod: /FFtoggle
+
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
