@@ -16,10 +16,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
-public class NECCommand extends CommandBase {
+public class FFCommand extends CommandBase {
     private final Subcommand[] subcommands;
 
-    public NECCommand(Subcommand[] subcommands) {
+    public FFCommand(Subcommand[] subcommands) {
         this.subcommands = subcommands;
     }
 
@@ -35,12 +35,12 @@ public class NECCommand extends CommandBase {
 
     @Override
     public String getCommandName() {
-        return "nec";
+        return "FF";
     }
 
     @Override
     public String getCommandUsage(ICommandSender sender) {
-        return "/nec <subcommand> <arguments>";
+        return "/ff <subcommand> <arguments>";
     }
 
     public void sendHelp(ICommandSender sender) {
@@ -51,7 +51,7 @@ public class NECCommand extends CommandBase {
                     + subcommand.getCommandUsage() + EnumChatFormatting.DARK_AQUA + " - " + subcommand.getCommandDescription());
             }
         }
-        sender.addChatMessage(new ChatComponentText(EnumChatFormatting.GOLD + "NEC " + EnumChatFormatting.GREEN
+        sender.addChatMessage(new ChatComponentText(EnumChatFormatting.GOLD + "FF " + EnumChatFormatting.GREEN
             + Reference.VERSION + "\n" + String.join("\n", commandUsages)));
     }
 
