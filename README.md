@@ -8,7 +8,7 @@ A SkyBlock Flipping Mod.
 - `/FF help` - Shows the help message containing all the subcommands and their usage
 - `/FF toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
 - Discord - https://discord.gg/UjYyqgcfFK
-- Launch the game atleast once without pizza client to get a correct whitelist or it does not work!
+
 
 
 #### Make sure you are whitelisted first!
