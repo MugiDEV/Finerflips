@@ -30,7 +30,7 @@ public class FFCommand extends CommandBase {
 
     @Override
     public List<String> getCommandAliases() {
-        return Arrays.asList("FinerFlips", "notenoughcoin");
+        return Arrays.asList("FinerFlips", "finerflips");
     }
 
     @Override
